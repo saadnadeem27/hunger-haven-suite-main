@@ -2,9 +2,9 @@
 
 A modern, responsive food delivery website built with React, TypeScript, and Tailwind CSS. This project showcases a complete front-end implementation of a professional food ordering platform with premium design and user experience.
 
-## 🚀 Live Demo
+<!-- ## 🚀 Live Demo
 
-**[View Live Demo](https://lovable.dev/projects/afc846ac-74e5-46d0-b8be-d6de6b6a5a23)**
+**[View Live Demo](link here)** -->
 
 ## ✨ Features
 
@@ -191,14 +191,14 @@ npm run build        # Build for production
 npm run preview      # Preview production build
 npm run lint         # Run ESLint
 ```
-
+<!-- 
 ## 📞 Contact & Portfolio
 
 **Developer:** [Your Name]
 - 🌐 **Portfolio:** [Your Portfolio URL]
 - 💼 **LinkedIn:** [Your LinkedIn]
 - 📧 **Email:** [your.email@example.com]
-- 🐙 **GitHub:** [Your GitHub Profile]
+- 🐙 **GitHub:** [Your GitHub Profile] -->
 
 ## 📄 License
 
