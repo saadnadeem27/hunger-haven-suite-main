@@ -6,6 +6,9 @@ A modern, responsive food delivery website built with React, TypeScript, and Tai
 
 **[View Live Demo](link here)** -->
 
+<!-- Portfolio preview image: place your screenshot at `public/hunger-haven-suite-portfolio.png` -->
+![Portfolio Preview](public/hunger-haven-suite-portfolio.png)
+
 ## ✨ Features
 
 ### 🏠 **Homepage**
